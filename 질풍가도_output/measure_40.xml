@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measure number="40" width="280">
+  <direction>
+    <sound tempo="120" />
+  </direction>
+  <attributes>
+    <staff-details print-object="yes" />
+    <divisions>2</divisions>
+    <clef>
+      <sign>percussion</sign>
+    </clef>
+  </attributes>
+  <note default-x="52">
+    <unpitched>
+      <display-step>F</display-step>
+      <display-octave>4</display-octave>
+    </unpitched>
+    <duration>2</duration>
+    <instrument id="P1-I36" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="30">up</stem>
+  </note>
+  <note default-x="109">
+    <unpitched>
+      <display-step>C</display-step>
+      <display-octave>5</display-octave>
+    </unpitched>
+    <duration>2</duration>
+    <instrument id="P1-I38" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="30">up</stem>
+  </note>
+  <note default-x="166">
+    <unpitched>
+      <display-step>F</display-step>
+      <display-octave>4</display-octave>
+    </unpitched>
+    <duration>2</duration>
+    <instrument id="P1-I36" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="30">up</stem>
+  </note>
+  <note default-x="222">
+    <unpitched>
+      <display-step>C</display-step>
+      <display-octave>5</display-octave>
+    </unpitched>
+    <duration>2</duration>
+    <instrument id="P1-I38" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="30">up</stem>
+  </note>
+</measure>

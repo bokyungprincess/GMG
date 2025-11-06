@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<measure number="5" width="310">
+  <direction>
+    <sound tempo="200" />
+  </direction>
+  <attributes>
+    <staff-details print-object="yes" />
+    <divisions>3</divisions>
+    <time>
+      <beats>4</beats>
+      <beat-type>4</beat-type>
+    </time>
+    <clef>
+      <sign>G</sign>
+      <line>2</line>
+    </clef>
+  </attributes>
+  <note default-x="56">
+    <pitch>
+      <step>G</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-30">down</stem>
+  </note>
+  <note default-x="120">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-40">down</stem>
+    <notations>
+      <articulations>
+        <accent placement="below" default-y="-64" />
+      </articulations>
+    </notations>
+  </note>
+  <note default-x="183">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-40">down</stem>
+  </note>
+  <note default-x="246">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-40">down</stem>
+  </note>
+</measure>

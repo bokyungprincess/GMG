@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measure number="7" width="270">
+  <attributes>
+    <divisions>3</divisions>
+    <time>
+      <beats>4</beats>
+      <beat-type>4</beat-type>
+    </time>
+    <clef>
+      <sign>G</sign>
+      <line>2</line>
+    </clef>
+    <staff-details print-object="yes" />
+  </attributes>
+  <note default-x="16">
+    <pitch>
+      <step>C</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>3</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-47">down</stem>
+    <notations>
+      <articulations>
+        <tenuto placement="below" default-y="-58" />
+      </articulations>
+    </notations>
+  </note>
+  <note default-x="80">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>3</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-40">down</stem>
+  </note>
+  <note default-x="143">
+    <pitch>
+      <step>G</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>3</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-30">down</stem>
+    <notations>
+      <articulations>
+        <tenuto placement="below" default-y="-58" />
+      </articulations>
+    </notations>
+  </note>
+  <note default-x="206">
+    <pitch>
+      <step>G</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>3</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-30">down</stem>
+  </note>
+</measure>

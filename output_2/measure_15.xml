@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measure number="15" width="122">
+  <attributes>
+    <divisions>1</divisions>
+    <time>
+      <beats>4</beats>
+      <beat-type>4</beat-type>
+    </time>
+    <clef>
+      <sign>percussion</sign>
+    </clef>
+    <staff-details print-object="yes" />
+  </attributes>
+  <note default-x="55">
+    <rest measure="yes">
+      <display-step>F</display-step>
+      <display-octave>5</display-octave>
+    </rest>
+    <duration>4</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+  </note>
+  <backup>
+    <duration>4</duration>
+  </backup>
+  <note default-x="13">
+    <unpitched>
+      <display-step>F</display-step>
+      <display-octave>4</display-octave>
+    </unpitched>
+    <duration>1</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <instrument id="P1-I36" />
+    <voice>2</voice>
+    <type>quarter</type>
+    <stem default-y="-59">down</stem>
+  </note>
+  <note default-x="40">
+    <rest>
+      <display-step>G</display-step>
+      <display-octave>4</display-octave>
+    </rest>
+    <duration>1</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <voice>2</voice>
+    <type>quarter</type>
+  </note>
+  <note default-x="67">
+    <unpitched>
+      <display-step>F</display-step>
+      <display-octave>4</display-octave>
+    </unpitched>
+    <duration>1</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <instrument id="P1-I36" />
+    <voice>2</voice>
+    <type>quarter</type>
+    <stem default-y="-59">down</stem>
+  </note>
+  <note default-x="94">
+    <rest>
+      <display-step>G</display-step>
+      <display-octave>4</display-octave>
+    </rest>
+    <duration>1</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <voice>2</voice>
+    <type>quarter</type>
+  </note>
+</measure>

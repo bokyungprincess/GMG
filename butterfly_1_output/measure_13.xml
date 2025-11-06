@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measure number="13" width="291">
+  <print new-system="yes">
+    <system-layout>
+      <system-margins>
+        <left-margin>56</left-margin>
+        <right-margin>58</right-margin>
+      </system-margins>
+      <system-distance>159</system-distance>
+    </system-layout>
+  </print>
+  <attributes>
+    <staff-details print-object="yes" />
+  </attributes>
+  <note default-x="57">
+    <pitch>
+      <step>G</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>600</duration>
+    <time-modification>
+      <actual-notes>600</actual-notes>
+      <normal-notes>600</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-30">down</stem>
+    <notations>
+      <articulations>
+        <tenuto placement="below" default-y="-59" />
+      </articulations>
+    </notations>
+  </note>
+  <note default-x="121">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>600</duration>
+    <time-modification>
+      <actual-notes>600</actual-notes>
+      <normal-notes>600</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-40">down</stem>
+    <notations>
+      <articulations>
+        <caesura default-x="133" default-y="-67" placement="below" />
+      </articulations>
+    </notations>
+  </note>
+  <note default-x="186">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>1200</duration>
+    <time-modification>
+      <actual-notes>600</actual-notes>
+      <normal-notes>600</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>half</type>
+    <stem default-y="-40">down</stem>
+  </note>
+</measure>

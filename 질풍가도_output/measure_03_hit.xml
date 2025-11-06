@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0.3 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<measure number="3" width="343">
+  <direction>
+    <sound tempo="120" />
+  </direction>
+  <attributes>
+    <divisions>2</divisions>
+    <clef>
+      <sign>percussion</sign>
+    </clef>
+    <staff-details print-object="yes" />
+  </attributes>
+</measure>

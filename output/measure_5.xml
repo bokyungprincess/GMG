@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measure number="5" width="310">
+  <print new-system="yes">
+    <system-layout>
+      <system-margins>
+        <left-margin>56</left-margin>
+        <right-margin>57</right-margin>
+      </system-margins>
+      <system-distance>159</system-distance>
+    </system-layout>
+  </print>
+  <attributes>
+    <staff-details print-object="yes" />
+  </attributes>
+  <note default-x="56">
+    <pitch>
+      <step>G</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-30">down</stem>
+  </note>
+  <note default-x="120">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-40">down</stem>
+    <notations>
+      <articulations>
+        <accent placement="below" default-y="-64" />
+      </articulations>
+    </notations>
+  </note>
+  <note default-x="183">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-40">down</stem>
+  </note>
+  <note default-x="246">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-40">down</stem>
+  </note>
+</measure>

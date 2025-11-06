@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<measure number="1" width="308"><print>
+        <system-layout>
+          <system-margins>
+            <left-margin>56</left-margin>
+            <right-margin>57</right-margin>
+          </system-margins>
+          <top-system-distance>324</top-system-distance>
+        </system-layout>
+        <measure-numbering>system</measure-numbering>
+      </print>
+      <attributes>
+        <divisions>3</divisions>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note default-x="77">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-30">down</stem>
+      </note>
+      <note default-x="141">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-40">down</stem>
+      </note>
+      <note default-x="205">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem default-y="-40">down</stem>
+      </note>
+    </measure>

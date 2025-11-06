@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measure number="3" width="269">
+  <attributes>
+    <divisions>3</divisions>
+    <time>
+      <beats>4</beats>
+      <beat-type>4</beat-type>
+    </time>
+    <clef>
+      <sign>G</sign>
+      <line>2</line>
+    </clef>
+    <staff-details print-object="yes" />
+  </attributes>
+  <note default-x="16">
+    <pitch>
+      <step>C</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>2</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <stem default-y="-47">down</stem>
+    <notations>
+      <tuplet type="start" number="1" placement="below" />
+    </notations>
+  </note>
+  <note default-x="79">
+    <pitch>
+      <step>D</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>2</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <stem default-y="-43">down</stem>
+  </note>
+  <note default-x="142">
+    <pitch>
+      <step>E</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>2</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <stem default-y="-40">down</stem>
+    <notations>
+      <tuplet type="stop" number="1" />
+    </notations>
+  </note>
+  <note default-x="205">
+    <pitch>
+      <step>F</step>
+      <octave>5</octave>
+    </pitch>
+    <duration>3</duration>
+    <time-modification>
+      <actual-notes>3</actual-notes>
+      <normal-notes>2</normal-notes>
+    </time-modification>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="-34">down</stem>
+  </note>
+</measure>

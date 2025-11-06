@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0.3 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<measure number="14" width="251">
+  <direction>
+    <sound tempo="120" />
+  </direction>
+  <attributes>
+    <divisions>2</divisions>
+    <clef>
+      <sign>percussion</sign>
+    </clef>
+    <staff-details print-object="yes" />
+  </attributes>
+  <note default-x="70">
+    <unpitched>
+      <display-step>C</display-step>
+      <display-octave>5</display-octave>
+    </unpitched>
+    <duration>2</duration>
+    <instrument id="P1-I38" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="30">up</stem>
+  </note>
+  <note default-x="190">
+    <unpitched>
+      <display-step>C</display-step>
+      <display-octave>5</display-octave>
+    </unpitched>
+    <duration>2</duration>
+    <instrument id="P1-I38" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem default-y="30">up</stem>
+  </note>
+</measure>
